@@ -38,7 +38,7 @@ This project analyzes 11,000+ retail transactions from India's Diwali shopping s
 **1. Gender drives the majority of revenue**
 Female customers generated **₹74.3M in sales versus ₹31.9M from male customers** — a **70/30 revenue split** despite a smaller gap in transaction counts, indicating women are placing higher-value orders on average.
 
-![Sales by Gender](images/chart_2.png)
+![Sales by Gender](https://github.com/saeedullah-tech/Sales_Analysis/blob/b6ea8b3dd5d04486a5696f8b1e909e43cd7deb32/chart_2_1.png)
 
 **2. The core buyer is 26–35 years old**
 This age bracket recorded the highest transaction volume and total spend across both genders, making it the primary segment to target in campaign planning.
