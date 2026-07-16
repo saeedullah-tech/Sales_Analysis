@@ -43,29 +43,29 @@ Female customers generated **₹74.3M in sales versus ₹31.9M from male custome
 **2. The core buyer is 26–35 years old**
 This age bracket recorded the highest transaction volume and total spend across both genders, making it the primary segment to target in campaign planning.
 
-![Age Group by Gender](images/chart_3.png)
-![Total Amount by Age Group](images/chart_4.png)
+![Age Group by Gender](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_3.png)
+![Total Amount by Age Group](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_4.png)
 
 **3. Revenue is concentrated in a handful of states**
 A small group of states — led by Uttar Pradesh, Maharashtra, and Karnataka — accounted for a disproportionate share of both order volume and total revenue, pointing to clear regional priorities for stock allocation.
 
-![Top 10 States by Orders](images/chart_5.png)
-![Top 10 States by Amount](images/chart_6.png)
+![Top 10 States by Orders](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_5.png)
+![Top 10 States by Amount](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_6.png)
 
 **4. Married customers spend more consistently**
 Married shoppers showed stronger purchasing activity than single customers, suggesting household and gifting-driven buying behavior during the festive period.
 
-![Marital Status Distribution](images/chart_7.png)
+![Marital Status Distribution](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_7.png)
 
 **5. Occupation shapes purchasing power**
 Customers working in IT, Healthcare, and Aviation sectors led in total spend, reflecting higher discretionary income among salaried professional segments.
 
-![Amount by Occupation](images/chart_9.png)
+![Amount by Occupation](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_9.png)
 
 **6. Food, Clothing, and Electronics dominate category sales**
 These three categories consistently ranked highest in both order count and revenue, ahead of categories like Auto and Furniture.
 
-![Amount by Product Category](images/chart_11.png)
+![Amount by Product Category](https://github.com/saeedullah-tech/Sales_Analysis/blob/3fed92694e406550b82ea258133581b5dc147cca/chart_11.png)
 
 ## Business Recommendation
 
